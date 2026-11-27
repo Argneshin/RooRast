@@ -1,6 +1,6 @@
-# RooRast Terms of Service, Terms and Conditions
+# RooRast Strict Terms of Service, Terms and Conditions
 
-**Last Updated: 2026**
+**Version 2.0 — Last Updated: 27 November 2026**
 
 **Official Website:** RRast.ir  
 **Current Address:** R.RRast.ir  
@@ -10,39 +10,144 @@
 **Team Channel:** @Argneshin  
 **Official Footer:** “© Argneshin · Coded by AsliCode”
 
-## 1. Acceptance of Terms
-By accessing RooRast or using any of its services, you confirm that you have read and agree to all terms, conditions, and the Privacy Policy. If you do not agree, please do not use the service.
+---
 
-## 2. Description of Services
-RooRast is a multifunctional utility platform that includes anonymous messaging with automated pre-publication content review, short-form content and link sharing, a “How well do you know me?” quiz, anonymous chat, and lightweight web tools. All services are provided “AS IS” and “AS AVAILABLE.”
+## 1. Acceptance of Terms (Non-Negotiable)
 
-## 3. User Conduct
-You agree to:
-- use the service solely for lawful purposes;
-- not publish content that is abusive, threatening, spam, criminal, obscene, invasive of others’ privacy (doxxing), or infringing on intellectual property rights;
-- not impersonate others;
-- not use the service to harass, intimidate, or harm others.
+By accessing any part of RooRast or using any of its services (even once), you fully and irrevocably confirm that:
 
-RooRast reserves the right to remove any content that it determines, in its sole discretion, violates these terms, without prior notice.
+- You have read this document **in its entirety**.
+- You agree to **all** terms, conditions, the Privacy Policy, and the License.
+- You accept sole and exclusive responsibility for all content you submit.
 
-## 4. Content Review System
-All text submitted to anonymous messaging and anonymous chat sections is reviewed by multiple automated agents for compliance before publication. This review is conducted solely to prevent abuse and maintain community safety and may result in content rejection or removal. The user bears ultimate responsibility for the content they submit.
-
-## 5. Privacy and Data
-Information that may be collected includes IP address, browser and device type, pages visited, visit duration, and submitted content (where necessary for review). This information is used to improve site performance, maintain security, conduct content review, and respond to legal requests. Personal data is not sold, rented, or shared with third parties, except where required by law or at the request of competent authorities. See `PRIVACY.en.md` for full details.
-
-## 6. Intellectual Property
-All rights related to the “RooRast” name, logo, design, code, and content produced by the Argneshin/AsliCode team belong to the Holder. Use of these materials without written permission is prohibited. The software is licensed under the “RooRast Proprietary License.”
-
-## 7. Limitation of Liability
-RooRast and the Argneshin/AsliCode team shall not be liable for any direct or indirect damages arising from use of the service, service interruptions, data loss, or user-submitted content. Users acknowledge the inherent risks of the internet and use the service at their own discretion.
-
-## 8. Changes to Terms
-RooRast reserves the right to update or modify this document at any time. Changes are effective upon publication on this page. Continued use of the service constitutes acceptance of the revised version.
-
-## 9. Contact
-To report violations, inquire about privacy, or request data deletion, contact us via the Telegram channel **@Argneshin** or the official handle **@RRastApp** (Telegram/Instagram). Developer: **@AsliCode**.
+If you do not agree with even a single clause, **immediately** stop using the service. Continued use constitutes full and unconditional acceptance.
 
 ---
 
-© Argneshin · Coded by AsliCode
+## 2. Description of Services
+
+RooRast is a multifunctional utility platform that includes:
+
+- Anonymous messaging with **mandatory multi-layer content review** before publication
+- Short-form content and link sharing
+- “How well do you know me?” quiz
+- Anonymous chat under the same strict review layer
+- Lightweight web tools
+- Developer support page
+
+All services are provided “AS IS” and “AS AVAILABLE.” No warranty is given regarding continuous availability, accuracy, or fitness for any purpose.
+
+---
+
+## 3. User Conduct — Zero-Tolerance Policy
+
+You agree to use the service **solely** for fully lawful, ethical, and non-harmful purposes.
+
+### 3.1. Strictly Prohibited Content (Non-Exhaustive but Binding)
+
+Any content (text, links, future media, or other data) that includes or relates to the following is **absolutely prohibited** and will be rejected, removed, or result in permanent account/device blocking without prior notice:
+
+1. **Any political content** (support, opposition, promotion, analysis, slogans, political symbols, elections, parties, officials).
+2. **Any religious content** (proselytizing, insult, doctrinal discussion, invitation to religion, criticism of religion, religious symbols in controversial contexts).
+3. **Sexual, pornographic, adult, or any sexually suggestive content** (even non-explicit).
+4. **Threats, intimidation, harassment, stalking, or encouragement of violence** against any person or entity.
+5. **Doxxing** and disclosure of others’ private information (address, phone, ID documents, bank details, etc.).
+6. **Spam**, commercial advertising, affiliate links, sale of goods/services, or any commercial content.
+7. **Impersonation** of individuals, organizations, or the RooRast / Argneshin / AsliCode team.
+8. **Encouragement of self-harm, suicide, or dangerous behavior**.
+9. **Illegal content** under the laws of the Islamic Republic of Iran or applicable international law (drugs, illegal gambling, fraud, terrorism, etc.).
+10. **Hate speech, discrimination, or attacks** based on race, ethnicity, gender, sexual orientation, disability, religion, or nationality.
+11. **Attempts to circumvent the content review system** (encryption, encoding, deliberate ambiguity, or any other technique).
+12. **Links to malicious sites, phishing, or prohibited content**.
+13. **Any content that, in the sole judgment of the team or review system, is inappropriate, dangerous, or disruptive to public order**.
+
+This list is **not exhaustive**. RooRast reserves the exclusive right to remove or block any content it deems inappropriate, without explanation or prior notice.
+
+### 3.2. Consequences of Violation
+
+- Immediate content rejection
+- Removal of published content
+- Temporary or **permanent** blocking of access (by IP, device, or other identifiers)
+- Reporting to competent judicial and law-enforcement authorities in case of serious violations
+- Full cooperation with legal authorities
+
+There is no guaranteed right of appeal or review. Team decisions are final and non-negotiable.
+
+---
+
+## 4. Content Review System — Strict and Mandatory
+
+All text submitted to anonymous messaging and anonymous chat sections is reviewed **before any publication** by multiple automated agents and, where necessary, human review, for compliance with the above rules.
+
+- This review is **mandatory** and cannot be disabled by the user.
+- The decision of the review system is final.
+- Users have no right to know the details of the algorithm or the exact reason for rejection.
+- Attempting to circumvent the system constitutes a severe violation in itself.
+
+---
+
+## 5. Privacy and Data
+
+Full details are in `PRIVACY.en.md`. Summary:
+
+- Technical information (IP, device, browser, time, content) is collected and retained for security and enforcement.
+- In case of detected violations, this information may be provided to legal authorities.
+- Personal data is not sold or rented, except where required by law.
+
+---
+
+## 6. Intellectual Property
+
+All rights related to the name “RooRast”, logo, design, code, documentation, and content produced by the Argneshin/AsliCode team belong exclusively to the Holder. Any use, copying, distribution, or creation of derivative works without prior written permission is **absolutely prohibited**.
+
+The software is licensed under the “RooRast Strict Proprietary License”. See `LICENSE.fa.md` and `LICENSE.en.md`.
+
+---
+
+## 7. Complete Limitation of Liability
+
+RooRast, the Argneshin team, and AsliCode shall have **no liability** whatsoever for:
+
+- Direct, indirect, incidental, consequential, or special damages arising from use or inability to use the service
+- Outages, failures, data loss, or system errors
+- User-submitted content
+- Decisions of the content review system
+- Actions of legal authorities
+
+Users acknowledge the inherent risks of the internet and the relative nature of anonymity and use the service entirely at their own risk.
+
+---
+
+## 8. Legal Age
+
+Use of RooRast is permitted **only for individuals aged 18 and above**. By using the service, you confirm that you are at least 18 years old. The team reserves the right to block access upon detection of violation of this condition.
+
+---
+
+## 9. Changes to Terms
+
+RooRast reserves the right to update this document at any time without prior notice. The new version is effective immediately upon publication on this page. Continued use after publication constitutes full acceptance of the revised version.
+
+---
+
+## 10. Governing Law and Dispute Resolution
+
+This document is governed by the laws of the Islamic Republic of Iran. Any disputes shall be resolved exclusively by the competent courts in Iran.
+
+---
+
+## 11. Contact
+
+For reporting serious violations, data deletion requests, or security matters:
+
+- Team Telegram channel: **@Argneshin**
+- Official handle: **@RRastApp** (Telegram & Instagram)
+- Developer: **@AsliCode**
+
+Violation reports are prioritized. General inquiries or appeals against content decisions are generally not answered.
+
+---
+
+**By using RooRast, you confirm that you have read, understood, and accepted these strict terms.**
+
+© Argneshin · Coded by AsliCode — All rights reserved.
